@@ -1,0 +1,25 @@
+---
+title: "Matteo Pedani"
+image: /img/matteo.pedani.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/matteopedani
+    - icon: linkedin
+      text: linkedIn
+      href: https://www.linkedin.com/in/matteopedani/
+    - icon: github
+      text: github
+      href: https://github.com/matteopedani
+    - icon: facebook
+      text: facebook
+      href: https://www.facebook.com/matteo.pedani
+    - icon: envelope
+      text: email
+      href: mailto:matteo@pedani.it
+
+---
+
+Questo è un blog personale 
