@@ -16,7 +16,6 @@ about:
 ### Curriculum vitae
 
 ::: {#hero-heading}
-
 In 2023 Matteo Pedani is the fonder of [Nocerosso](http://nocerosso.com) a sea wave energy company
 
 #### Spoken languages
@@ -40,14 +39,13 @@ phone 0039.069415152\
 **born** 1966 in Italy
 :::
 :::
-
 :::
 
 ### Award
 
-+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1998     | **Torino International Festival of Young Cinema** 2nd place Prize of the City of Torino Best Film - Italy Space Competition -- Non-Fiction for: **Pasta** |
-+----------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1998     | [**Torino International Festival of Young Cinema**](https://www.torinofilmfest.org/it/16-torino-film-festival/film/pasta/1082/#cast) 2nd place Prize of the City of Torino Best Film - Italy Space Competition -- Non-Fiction for: **Pasta** |
++----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Work experience
 
