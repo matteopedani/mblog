@@ -3,7 +3,7 @@ title: Mia, poesie
 date: '2023-03-29'
 # se non si mette un immagine qui viene usata la prima immagine dell articolo
 # nell'elenco degli scritti
-#image: muschietto.png
+image: muschietto.png
 author:
  - Maria Lami
  - Matteo Pedani

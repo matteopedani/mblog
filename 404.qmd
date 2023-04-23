@@ -2,8 +2,7 @@
 title: Page Not Found 
 ---
 
-
-# La pagina che hai chiesto non esiste! 
+# La pagina che hai chiesto non esiste!
 
 La pagina che hai chiesto è stata mossa oppure rinominata , prova a cercarla usando cerca (la lente) nel menu.
 

@@ -1,0 +1,20 @@
+---
+title: "lavagna"
+format:
+  revealjs:
+    chalkboard: true
+    multiplex: true
+---
+
+I numeri ipercomplessi sono numeri che hanno la maggior parte dei primi due cifrati multipli di 10 rispettivamente. Per esempio, il numero hypercomplesso 108 ha la maggior parte dei primi due cifrati multipli di 10 che sono 12 e 18. I libri più citati in proposito sono:-
+
+1.  Le basi della matematica (Giacomo Zorzi, 2003)
+2.  I numeri hypercomplessi (Luca Cardelli, 2014)
+3.  I numeri ipercomplessi (Franco Bartolomei, 2016)
+4.  Numeri ipercomplessi (Alessandra Amoroso, Carlo Cecchini, 2013)
+
+Quelli che si possono leggere liberamente in rete sono:-
+
+1.  I numeri hypercomplessi (Luca Cardelli, 2014)
+2.  I numeri ipercomplessi (Franco Bartolomei, 2016)
+3.  Numeri ipercomplessi (Alessandra Amoroso, Carlo Cecchini, 2013)

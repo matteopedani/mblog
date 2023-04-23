@@ -1,7 +1,6 @@
 project:
   type: website
   output-dir: docs
-
 website:
   title: "mlog"
   navbar:
@@ -12,14 +11,13 @@ website:
       - icon: twitter
         href: https://twitter.com/matteopedani
       - icon: envelope
-        href: mailto:grandtour.frascati@gmail.com
+        href: mailto:matteo@pedani.it
         aria-label: Email
 format:
   html:
     theme: united
     css: styles.css
     toc: true
-
 editor: visual
 lang: it
 

@@ -5,16 +5,15 @@ date: "2023-03-17"
 categories: [matematica]
 ---
 
- 
-$$z_{m+1} = (\sum_{i=0}^{m} z_i )- z_0 $$
----
+## $$z_{m+1} = (\sum_{i=0}^{m} z_i )- z_0 $$
+
 Certamente! In questo caso, possiamo definire la sequenza in modo ricorsivo, dove il valore al tempo $t_i$ è dato dalla somma degli elementi della sequenza al tempo $t_{i-1}$ tranne il primo elemento. Possiamo rappresentare questa idea con la seguente equazione:
 
 $$a_{i} = \sum_{j=2}^{n} a_{i-1,j-1}$$
 
 dove $a_{i,j}$ rappresenta l'$j$-esimo elemento della sequenza al tempo $t_i$.
 
-Iniziamo quindi definendo la sequenza iniziale $a_1$ come: 
+Iniziamo quindi definendo la sequenza iniziale $a_1$ come:
 
 ```{r}
 # Definizione della sequenza iniziale
@@ -42,6 +41,7 @@ cat(z_new, "\n")
 plot(z_new, type = "l", xlab = "n", ylab = "z_n", main = "Successione")
 
 ```
+
 Per calcolare la derivata numerica di una serie, possiamo utilizzare la formula di differenza finita:
 
 $$f'(x_i) = \frac{f(x_{i+1}) - f(x_i)}{h}$$
