@@ -1,2 +1,0 @@
-# mblog
-Matteo Pedani blog
